@@ -429,6 +429,7 @@ ${joinNonEmptyString(
 )}
 \\end{adjustwidth}`
           ),
+          '\\vspace{10pt}',
         ],
         '\n'
       )
@@ -711,6 +712,7 @@ ${joinNonEmptyString(
 )}
 \\end{adjustwidth}`
           ),
+          '\\vspace{10pt}',
         ],
         '\n'
       )
